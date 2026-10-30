@@ -1,0 +1,65 @@
+{
+  "manifest_version": 3,
+  "name": "PayAdvisors Navy",
+  "version": "1.0.1",
+  "theme": {
+    "colors": {
+      "frame": [
+        8,
+        21,
+        43
+      ],
+      "frame_inactive": [
+        8,
+        21,
+        43
+      ],
+      "frame_incognito": [
+        5,
+        13,
+        28
+      ],
+      "toolbar": [
+        14,
+        33,
+        64
+      ],
+      "tab_text": [
+        255,
+        255,
+        255
+      ],
+      "tab_background_text": [
+        200,
+        210,
+        230
+      ],
+      "bookmark_text": [
+        255,
+        255,
+        255
+      ],
+      "toolbar_button_icon": [
+        255,
+        255,
+        255
+      ],
+      "omnibox_background": [
+        10,
+        26,
+        51
+      ],
+      "omnibox_text": [
+        255,
+        255,
+        255
+      ],
+      "ntp_background": [
+        255,
+        255,
+        255
+      ]
+    }
+  },
+  "update_url": "https://kylemoore-padv.github.io/padv-theme-dist/update.xml"
+}
